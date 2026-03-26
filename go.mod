@@ -1,4 +1,4 @@
-module github.com/pippellia-btc/rely
+module github.com/trustr-ing/rel
 
 go 1.24.1
 
